@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "pendule.h": "c",
+        "windows.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
